@@ -17,9 +17,11 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rexsoft.jokereal",
+      "versionCode": 4
     },
     "web": {
       "favicon": "./assets/favicon.png"
